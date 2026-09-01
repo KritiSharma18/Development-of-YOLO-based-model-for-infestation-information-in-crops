@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Potato_leaf_early_blight', 'Potato_leaf_late_blight']
+
+roboflow:
+  workspace: 1-qcy6b
+  project: btp_2_alt
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/1-qcy6b/btp_2_alt/dataset/3

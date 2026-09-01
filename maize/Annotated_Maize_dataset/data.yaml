@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['blight', 'common_rust', 'gray_spot']
+
+roboflow:
+  workspace: 1-qcy6b
+  project: btp_re-2xoxq
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/1-qcy6b/btp_re-2xoxq/dataset/7
