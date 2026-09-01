@@ -238,9 +238,3 @@ Both studies were limited to RGB imagery from datasets that lacked broad geograp
 
 Kriti Sharma
 
-Roll No. 22AG36013
-
-Agricultural and Food Engineering
-
-Indian Institute of Technology Kharagpur
-
